@@ -1,0 +1,32 @@
+[
+  {
+    "username": "admin",
+    "password": "$2b$10$irIvi9D1pryiaq4EZMAS2u/4NfrGsXlWDsgpaPX0D1ah14gUag.li",
+    "fullname": "admin",
+    "_id": "ayb2t",
+    "score": 10000,
+    "createdAt": 1708257273999,
+    "imgUrl": "https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png",
+    "isAdmin": true
+  },
+  {
+    "username": "aaa",
+    "fullname": "aaa",
+    "password": "aaa",
+    "score": 10000,
+    "_id": "SAZXR",
+    "createdAt": 1708269346639,
+    "imgUrl": "https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"
+  },
+
+  {
+    "username": "sarit",
+    "fullname": "sarit",
+    "password": "aaa",
+    "score": 10000,
+    "_id": "aJlAp",
+    "createdAt": 1708269346639,
+    "imgUrl": "https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"
+  }
+
+]
